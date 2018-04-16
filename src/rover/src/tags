@@ -1,0 +1,185 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ACCEL_OFFSET_X_LSB_ADDR	bno055.h	/^        ACCEL_OFFSET_X_LSB_ADDR                                 = 0X55,$/;"	e	enum:BNO055::REGISTER
+ACCEL_OFFSET_X_MSB_ADDR	bno055.h	/^        ACCEL_OFFSET_X_MSB_ADDR                                 = 0X56,$/;"	e	enum:BNO055::REGISTER
+ACCEL_OFFSET_Y_LSB_ADDR	bno055.h	/^        ACCEL_OFFSET_Y_LSB_ADDR                                 = 0X57,$/;"	e	enum:BNO055::REGISTER
+ACCEL_OFFSET_Y_MSB_ADDR	bno055.h	/^        ACCEL_OFFSET_Y_MSB_ADDR                                 = 0X58,$/;"	e	enum:BNO055::REGISTER
+ACCEL_OFFSET_Z_LSB_ADDR	bno055.h	/^        ACCEL_OFFSET_Z_LSB_ADDR                                 = 0X59,$/;"	e	enum:BNO055::REGISTER
+ACCEL_OFFSET_Z_MSB_ADDR	bno055.h	/^        ACCEL_OFFSET_Z_MSB_ADDR                                 = 0X5A,$/;"	e	enum:BNO055::REGISTER
+ACCEL_RADIUS_LSB_ADDR	bno055.h	/^        ACCEL_RADIUS_LSB_ADDR                                   = 0X67,$/;"	e	enum:BNO055::REGISTER
+ACCEL_RADIUS_MSB_ADDR	bno055.h	/^        ACCEL_RADIUS_MSB_ADDR                                   = 0X68,$/;"	e	enum:BNO055::REGISTER
+AStar	astar.cpp	/^AStar::AStar()$/;"	f	class:AStar
+AStar	astar.h	/^class AStar$/;"	c
+BNO055	bno055.cpp	/^BNO055::BNO055(uint8_t addr):$/;"	f	class:BNO055
+BNO055	bno055.h	/^class BNO055$/;"	c
+BNO055_ACCEL_DATA_X_LSB_ADDR	bno055.h	/^        BNO055_ACCEL_DATA_X_LSB_ADDR                            = 0X08,$/;"	e	enum:BNO055::REGISTER
+BNO055_ACCEL_DATA_X_MSB_ADDR	bno055.h	/^        BNO055_ACCEL_DATA_X_MSB_ADDR                            = 0X09,$/;"	e	enum:BNO055::REGISTER
+BNO055_ACCEL_DATA_Y_LSB_ADDR	bno055.h	/^        BNO055_ACCEL_DATA_Y_LSB_ADDR                            = 0X0A,$/;"	e	enum:BNO055::REGISTER
+BNO055_ACCEL_DATA_Y_MSB_ADDR	bno055.h	/^        BNO055_ACCEL_DATA_Y_MSB_ADDR                            = 0X0B,$/;"	e	enum:BNO055::REGISTER
+BNO055_ACCEL_DATA_Z_LSB_ADDR	bno055.h	/^        BNO055_ACCEL_DATA_Z_LSB_ADDR                            = 0X0C,$/;"	e	enum:BNO055::REGISTER
+BNO055_ACCEL_DATA_Z_MSB_ADDR	bno055.h	/^        BNO055_ACCEL_DATA_Z_MSB_ADDR                            = 0X0D,$/;"	e	enum:BNO055::REGISTER
+BNO055_ACCEL_REV_ID_ADDR	bno055.h	/^        BNO055_ACCEL_REV_ID_ADDR                                = 0x01,$/;"	e	enum:BNO055::REGISTER
+BNO055_ADDRESS_A	bno055.h	6;"	d
+BNO055_ADDRESS_B	bno055.h	7;"	d
+BNO055_AXIS_MAP_CONFIG_ADDR	bno055.h	/^        BNO055_AXIS_MAP_CONFIG_ADDR                             = 0X41,$/;"	e	enum:BNO055::REGISTER
+BNO055_AXIS_MAP_SIGN_ADDR	bno055.h	/^        BNO055_AXIS_MAP_SIGN_ADDR                               = 0X42,$/;"	e	enum:BNO055::REGISTER
+BNO055_BL_REV_ID_ADDR	bno055.h	/^        BNO055_BL_REV_ID_ADDR                                   = 0X06,$/;"	e	enum:BNO055::REGISTER
+BNO055_CALIB_STAT_ADDR	bno055.h	/^        BNO055_CALIB_STAT_ADDR                                  = 0X35,$/;"	e	enum:BNO055::REGISTER
+BNO055_CHIP_ID_ADDR	bno055.h	/^        BNO055_CHIP_ID_ADDR                                     = 0x00,$/;"	e	enum:BNO055::REGISTER
+BNO055_DATA_SELECT_ADDR	bno055.h	/^        BNO055_DATA_SELECT_ADDR                                 = 0X3C,$/;"	e	enum:BNO055::REGISTER
+BNO055_EULER_H_LSB_ADDR	bno055.h	/^        BNO055_EULER_H_LSB_ADDR                                 = 0X1A,$/;"	e	enum:BNO055::REGISTER
+BNO055_EULER_H_MSB_ADDR	bno055.h	/^        BNO055_EULER_H_MSB_ADDR                                 = 0X1B,$/;"	e	enum:BNO055::REGISTER
+BNO055_EULER_P_LSB_ADDR	bno055.h	/^        BNO055_EULER_P_LSB_ADDR                                 = 0X1E,$/;"	e	enum:BNO055::REGISTER
+BNO055_EULER_P_MSB_ADDR	bno055.h	/^        BNO055_EULER_P_MSB_ADDR                                 = 0X1F,$/;"	e	enum:BNO055::REGISTER
+BNO055_EULER_R_LSB_ADDR	bno055.h	/^        BNO055_EULER_R_LSB_ADDR                                 = 0X1C,$/;"	e	enum:BNO055::REGISTER
+BNO055_EULER_R_MSB_ADDR	bno055.h	/^        BNO055_EULER_R_MSB_ADDR                                 = 0X1D,$/;"	e	enum:BNO055::REGISTER
+BNO055_GRAVITY_DATA_X_LSB_ADDR	bno055.h	/^        BNO055_GRAVITY_DATA_X_LSB_ADDR                          = 0X2E,$/;"	e	enum:BNO055::REGISTER
+BNO055_GRAVITY_DATA_X_MSB_ADDR	bno055.h	/^        BNO055_GRAVITY_DATA_X_MSB_ADDR                          = 0X2F,$/;"	e	enum:BNO055::REGISTER
+BNO055_GRAVITY_DATA_Y_LSB_ADDR	bno055.h	/^        BNO055_GRAVITY_DATA_Y_LSB_ADDR                          = 0X30,$/;"	e	enum:BNO055::REGISTER
+BNO055_GRAVITY_DATA_Y_MSB_ADDR	bno055.h	/^        BNO055_GRAVITY_DATA_Y_MSB_ADDR                          = 0X31,$/;"	e	enum:BNO055::REGISTER
+BNO055_GRAVITY_DATA_Z_LSB_ADDR	bno055.h	/^        BNO055_GRAVITY_DATA_Z_LSB_ADDR                          = 0X32,$/;"	e	enum:BNO055::REGISTER
+BNO055_GRAVITY_DATA_Z_MSB_ADDR	bno055.h	/^        BNO055_GRAVITY_DATA_Z_MSB_ADDR                          = 0X33,$/;"	e	enum:BNO055::REGISTER
+BNO055_GYRO_DATA_X_LSB_ADDR	bno055.h	/^        BNO055_GYRO_DATA_X_LSB_ADDR                             = 0X14,$/;"	e	enum:BNO055::REGISTER
+BNO055_GYRO_DATA_X_MSB_ADDR	bno055.h	/^        BNO055_GYRO_DATA_X_MSB_ADDR                             = 0X15,$/;"	e	enum:BNO055::REGISTER
+BNO055_GYRO_DATA_Y_LSB_ADDR	bno055.h	/^        BNO055_GYRO_DATA_Y_LSB_ADDR                             = 0X16,$/;"	e	enum:BNO055::REGISTER
+BNO055_GYRO_DATA_Y_MSB_ADDR	bno055.h	/^        BNO055_GYRO_DATA_Y_MSB_ADDR                             = 0X17,$/;"	e	enum:BNO055::REGISTER
+BNO055_GYRO_DATA_Z_LSB_ADDR	bno055.h	/^        BNO055_GYRO_DATA_Z_LSB_ADDR                             = 0X18,$/;"	e	enum:BNO055::REGISTER
+BNO055_GYRO_DATA_Z_MSB_ADDR	bno055.h	/^        BNO055_GYRO_DATA_Z_MSB_ADDR                             = 0X19,$/;"	e	enum:BNO055::REGISTER
+BNO055_GYRO_REV_ID_ADDR	bno055.h	/^        BNO055_GYRO_REV_ID_ADDR                                 = 0x03,$/;"	e	enum:BNO055::REGISTER
+BNO055_H	bno055.h	2;"	d
+BNO055_ID	bno055.h	8;"	d
+BNO055_INTR_STAT_ADDR	bno055.h	/^        BNO055_INTR_STAT_ADDR                                   = 0X37,$/;"	e	enum:BNO055::REGISTER
+BNO055_LINEAR_ACCEL_DATA_X_LSB_ADDR	bno055.h	/^        BNO055_LINEAR_ACCEL_DATA_X_LSB_ADDR                     = 0X28,$/;"	e	enum:BNO055::REGISTER
+BNO055_LINEAR_ACCEL_DATA_X_MSB_ADDR	bno055.h	/^        BNO055_LINEAR_ACCEL_DATA_X_MSB_ADDR                     = 0X29,$/;"	e	enum:BNO055::REGISTER
+BNO055_LINEAR_ACCEL_DATA_Y_LSB_ADDR	bno055.h	/^        BNO055_LINEAR_ACCEL_DATA_Y_LSB_ADDR                     = 0X2A,$/;"	e	enum:BNO055::REGISTER
+BNO055_LINEAR_ACCEL_DATA_Y_MSB_ADDR	bno055.h	/^        BNO055_LINEAR_ACCEL_DATA_Y_MSB_ADDR                     = 0X2B,$/;"	e	enum:BNO055::REGISTER
+BNO055_LINEAR_ACCEL_DATA_Z_LSB_ADDR	bno055.h	/^        BNO055_LINEAR_ACCEL_DATA_Z_LSB_ADDR                     = 0X2C,$/;"	e	enum:BNO055::REGISTER
+BNO055_LINEAR_ACCEL_DATA_Z_MSB_ADDR	bno055.h	/^        BNO055_LINEAR_ACCEL_DATA_Z_MSB_ADDR                     = 0X2D,$/;"	e	enum:BNO055::REGISTER
+BNO055_MAG_DATA_X_LSB_ADDR	bno055.h	/^        BNO055_MAG_DATA_X_LSB_ADDR                              = 0X0E,$/;"	e	enum:BNO055::REGISTER
+BNO055_MAG_DATA_X_MSB_ADDR	bno055.h	/^        BNO055_MAG_DATA_X_MSB_ADDR                              = 0X0F,$/;"	e	enum:BNO055::REGISTER
+BNO055_MAG_DATA_Y_LSB_ADDR	bno055.h	/^        BNO055_MAG_DATA_Y_LSB_ADDR                              = 0X10,$/;"	e	enum:BNO055::REGISTER
+BNO055_MAG_DATA_Y_MSB_ADDR	bno055.h	/^        BNO055_MAG_DATA_Y_MSB_ADDR                              = 0X11,$/;"	e	enum:BNO055::REGISTER
+BNO055_MAG_DATA_Z_LSB_ADDR	bno055.h	/^        BNO055_MAG_DATA_Z_LSB_ADDR                              = 0X12,$/;"	e	enum:BNO055::REGISTER
+BNO055_MAG_DATA_Z_MSB_ADDR	bno055.h	/^        BNO055_MAG_DATA_Z_MSB_ADDR                              = 0X13,$/;"	e	enum:BNO055::REGISTER
+BNO055_MAG_REV_ID_ADDR	bno055.h	/^        BNO055_MAG_REV_ID_ADDR                                  = 0x02,$/;"	e	enum:BNO055::REGISTER
+BNO055_OPR_MODE_ADDR	bno055.h	/^        BNO055_OPR_MODE_ADDR                                    = 0X3D,$/;"	e	enum:BNO055::REGISTER
+BNO055_PAGE_ID_ADDR	bno055.h	/^        BNO055_PAGE_ID_ADDR                                     = 0X07,$/;"	e	enum:BNO055::REGISTER
+BNO055_PWR_MODE_ADDR	bno055.h	/^        BNO055_PWR_MODE_ADDR                                    = 0X3E,$/;"	e	enum:BNO055::REGISTER
+BNO055_QUATERNION_DATA_W_LSB_ADDR	bno055.h	/^        BNO055_QUATERNION_DATA_W_LSB_ADDR                       = 0X20,$/;"	e	enum:BNO055::REGISTER
+BNO055_QUATERNION_DATA_W_MSB_ADDR	bno055.h	/^        BNO055_QUATERNION_DATA_W_MSB_ADDR                       = 0X21,$/;"	e	enum:BNO055::REGISTER
+BNO055_QUATERNION_DATA_X_LSB_ADDR	bno055.h	/^        BNO055_QUATERNION_DATA_X_LSB_ADDR                       = 0X22,$/;"	e	enum:BNO055::REGISTER
+BNO055_QUATERNION_DATA_X_MSB_ADDR	bno055.h	/^        BNO055_QUATERNION_DATA_X_MSB_ADDR                       = 0X23,$/;"	e	enum:BNO055::REGISTER
+BNO055_QUATERNION_DATA_Y_LSB_ADDR	bno055.h	/^        BNO055_QUATERNION_DATA_Y_LSB_ADDR                       = 0X24,$/;"	e	enum:BNO055::REGISTER
+BNO055_QUATERNION_DATA_Y_MSB_ADDR	bno055.h	/^        BNO055_QUATERNION_DATA_Y_MSB_ADDR                       = 0X25,$/;"	e	enum:BNO055::REGISTER
+BNO055_QUATERNION_DATA_Z_LSB_ADDR	bno055.h	/^        BNO055_QUATERNION_DATA_Z_LSB_ADDR                       = 0X26,$/;"	e	enum:BNO055::REGISTER
+BNO055_QUATERNION_DATA_Z_MSB_ADDR	bno055.h	/^        BNO055_QUATERNION_DATA_Z_MSB_ADDR                       = 0X27,$/;"	e	enum:BNO055::REGISTER
+BNO055_SELFTEST_RESULT_ADDR	bno055.h	/^        BNO055_SELFTEST_RESULT_ADDR                             = 0X36,$/;"	e	enum:BNO055::REGISTER
+BNO055_SIC_MATRIX_0_LSB_ADDR	bno055.h	/^        BNO055_SIC_MATRIX_0_LSB_ADDR                            = 0X43,$/;"	e	enum:BNO055::REGISTER
+BNO055_SIC_MATRIX_0_MSB_ADDR	bno055.h	/^        BNO055_SIC_MATRIX_0_MSB_ADDR                            = 0X44,$/;"	e	enum:BNO055::REGISTER
+BNO055_SIC_MATRIX_1_LSB_ADDR	bno055.h	/^        BNO055_SIC_MATRIX_1_LSB_ADDR                            = 0X45,$/;"	e	enum:BNO055::REGISTER
+BNO055_SIC_MATRIX_1_MSB_ADDR	bno055.h	/^        BNO055_SIC_MATRIX_1_MSB_ADDR                            = 0X46,$/;"	e	enum:BNO055::REGISTER
+BNO055_SIC_MATRIX_2_LSB_ADDR	bno055.h	/^        BNO055_SIC_MATRIX_2_LSB_ADDR                            = 0X47,$/;"	e	enum:BNO055::REGISTER
+BNO055_SIC_MATRIX_2_MSB_ADDR	bno055.h	/^        BNO055_SIC_MATRIX_2_MSB_ADDR                            = 0X48,$/;"	e	enum:BNO055::REGISTER
+BNO055_SIC_MATRIX_3_LSB_ADDR	bno055.h	/^        BNO055_SIC_MATRIX_3_LSB_ADDR                            = 0X49,$/;"	e	enum:BNO055::REGISTER
+BNO055_SIC_MATRIX_3_MSB_ADDR	bno055.h	/^        BNO055_SIC_MATRIX_3_MSB_ADDR                            = 0X4A,$/;"	e	enum:BNO055::REGISTER
+BNO055_SIC_MATRIX_4_LSB_ADDR	bno055.h	/^        BNO055_SIC_MATRIX_4_LSB_ADDR                            = 0X4B,$/;"	e	enum:BNO055::REGISTER
+BNO055_SIC_MATRIX_4_MSB_ADDR	bno055.h	/^        BNO055_SIC_MATRIX_4_MSB_ADDR                            = 0X4C,$/;"	e	enum:BNO055::REGISTER
+BNO055_SIC_MATRIX_5_LSB_ADDR	bno055.h	/^        BNO055_SIC_MATRIX_5_LSB_ADDR                            = 0X4D,$/;"	e	enum:BNO055::REGISTER
+BNO055_SIC_MATRIX_5_MSB_ADDR	bno055.h	/^        BNO055_SIC_MATRIX_5_MSB_ADDR                            = 0X4E,$/;"	e	enum:BNO055::REGISTER
+BNO055_SIC_MATRIX_6_LSB_ADDR	bno055.h	/^        BNO055_SIC_MATRIX_6_LSB_ADDR                            = 0X4F,$/;"	e	enum:BNO055::REGISTER
+BNO055_SIC_MATRIX_6_MSB_ADDR	bno055.h	/^        BNO055_SIC_MATRIX_6_MSB_ADDR                            = 0X50,$/;"	e	enum:BNO055::REGISTER
+BNO055_SIC_MATRIX_7_LSB_ADDR	bno055.h	/^        BNO055_SIC_MATRIX_7_LSB_ADDR                            = 0X51,$/;"	e	enum:BNO055::REGISTER
+BNO055_SIC_MATRIX_7_MSB_ADDR	bno055.h	/^        BNO055_SIC_MATRIX_7_MSB_ADDR                            = 0X52,$/;"	e	enum:BNO055::REGISTER
+BNO055_SIC_MATRIX_8_LSB_ADDR	bno055.h	/^        BNO055_SIC_MATRIX_8_LSB_ADDR                            = 0X53,$/;"	e	enum:BNO055::REGISTER
+BNO055_SIC_MATRIX_8_MSB_ADDR	bno055.h	/^        BNO055_SIC_MATRIX_8_MSB_ADDR                            = 0X54,$/;"	e	enum:BNO055::REGISTER
+BNO055_SW_REV_ID_LSB_ADDR	bno055.h	/^        BNO055_SW_REV_ID_LSB_ADDR                               = 0x04,$/;"	e	enum:BNO055::REGISTER
+BNO055_SW_REV_ID_MSB_ADDR	bno055.h	/^        BNO055_SW_REV_ID_MSB_ADDR                               = 0x05,$/;"	e	enum:BNO055::REGISTER
+BNO055_SYS_CLK_STAT_ADDR	bno055.h	/^        BNO055_SYS_CLK_STAT_ADDR                                = 0X38,$/;"	e	enum:BNO055::REGISTER
+BNO055_SYS_ERR_ADDR	bno055.h	/^        BNO055_SYS_ERR_ADDR                                     = 0X3A,$/;"	e	enum:BNO055::REGISTER
+BNO055_SYS_STAT_ADDR	bno055.h	/^        BNO055_SYS_STAT_ADDR                                    = 0X39,$/;"	e	enum:BNO055::REGISTER
+BNO055_SYS_TRIGGER_ADDR	bno055.h	/^        BNO055_SYS_TRIGGER_ADDR                                 = 0X3F,$/;"	e	enum:BNO055::REGISTER
+BNO055_TEMP_ADDR	bno055.h	/^        BNO055_TEMP_ADDR                                        = 0X34,$/;"	e	enum:BNO055::REGISTER
+BNO055_TEMP_SOURCE_ADDR	bno055.h	/^        BNO055_TEMP_SOURCE_ADDR                                 = 0X40,$/;"	e	enum:BNO055::REGISTER
+BNO055_UNIT_SEL_ADDR	bno055.h	/^        BNO055_UNIT_SEL_ADDR                                    = 0X3B,$/;"	e	enum:BNO055::REGISTER
+GYRO_OFFSET_X_LSB_ADDR	bno055.h	/^        GYRO_OFFSET_X_LSB_ADDR                                  = 0X61,$/;"	e	enum:BNO055::REGISTER
+GYRO_OFFSET_X_MSB_ADDR	bno055.h	/^        GYRO_OFFSET_X_MSB_ADDR                                  = 0X62,$/;"	e	enum:BNO055::REGISTER
+GYRO_OFFSET_Y_LSB_ADDR	bno055.h	/^        GYRO_OFFSET_Y_LSB_ADDR                                  = 0X63,$/;"	e	enum:BNO055::REGISTER
+GYRO_OFFSET_Y_MSB_ADDR	bno055.h	/^        GYRO_OFFSET_Y_MSB_ADDR                                  = 0X64,$/;"	e	enum:BNO055::REGISTER
+GYRO_OFFSET_Z_LSB_ADDR	bno055.h	/^        GYRO_OFFSET_Z_LSB_ADDR                                  = 0X65,$/;"	e	enum:BNO055::REGISTER
+GYRO_OFFSET_Z_MSB_ADDR	bno055.h	/^        GYRO_OFFSET_Z_MSB_ADDR                                  = 0X66,$/;"	e	enum:BNO055::REGISTER
+HeadingCvt	main.cpp	/^const float HeadingCvt = M_PI*2.0f\/(5887.0f - 128.0);$/;"	v
+LOOP_RATE	main.cpp	74;"	d	file:
+MAG_OFFSET_X_LSB_ADDR	bno055.h	/^        MAG_OFFSET_X_LSB_ADDR                                   = 0X5B,$/;"	e	enum:BNO055::REGISTER
+MAG_OFFSET_X_MSB_ADDR	bno055.h	/^        MAG_OFFSET_X_MSB_ADDR                                   = 0X5C,$/;"	e	enum:BNO055::REGISTER
+MAG_OFFSET_Y_LSB_ADDR	bno055.h	/^        MAG_OFFSET_Y_LSB_ADDR                                   = 0X5D,$/;"	e	enum:BNO055::REGISTER
+MAG_OFFSET_Y_MSB_ADDR	bno055.h	/^        MAG_OFFSET_Y_MSB_ADDR                                   = 0X5E,$/;"	e	enum:BNO055::REGISTER
+MAG_OFFSET_Z_LSB_ADDR	bno055.h	/^        MAG_OFFSET_Z_LSB_ADDR                                   = 0X5F,$/;"	e	enum:BNO055::REGISTER
+MAG_OFFSET_Z_MSB_ADDR	bno055.h	/^        MAG_OFFSET_Z_MSB_ADDR                                   = 0X60,$/;"	e	enum:BNO055::REGISTER
+MAG_RADIUS_LSB_ADDR	bno055.h	/^        MAG_RADIUS_LSB_ADDR                                     = 0X69,$/;"	e	enum:BNO055::REGISTER
+MAG_RADIUS_MSB_ADDR	bno055.h	/^        MAG_RADIUS_MSB_ADDR                                     = 0X6A$/;"	e	enum:BNO055::REGISTER
+M_PI	main.cpp	16;"	d	file:
+MotorMessage	astar.cpp	/^struct MotorMessage$/;"	s	namespace:__anon1	file:
+OPERATION_MODE_ACCGYRO	bno055.h	/^      OPERATION_MODE_ACCGYRO                                  = 0X05,$/;"	e	enum:BNO055::OP_MODE
+OPERATION_MODE_ACCMAG	bno055.h	/^      OPERATION_MODE_ACCMAG                                   = 0X04,$/;"	e	enum:BNO055::OP_MODE
+OPERATION_MODE_ACCONLY	bno055.h	/^      OPERATION_MODE_ACCONLY                                  = 0X01,$/;"	e	enum:BNO055::OP_MODE
+OPERATION_MODE_AMG	bno055.h	/^      OPERATION_MODE_AMG                                      = 0X07,$/;"	e	enum:BNO055::OP_MODE
+OPERATION_MODE_COMPASS	bno055.h	/^      OPERATION_MODE_COMPASS                                  = 0X09,$/;"	e	enum:BNO055::OP_MODE
+OPERATION_MODE_CONFIG	bno055.h	/^      OPERATION_MODE_CONFIG                                   = 0X00,$/;"	e	enum:BNO055::OP_MODE
+OPERATION_MODE_GYRONLY	bno055.h	/^      OPERATION_MODE_GYRONLY                                  = 0X03,$/;"	e	enum:BNO055::OP_MODE
+OPERATION_MODE_IMUPLUS	bno055.h	/^      OPERATION_MODE_IMUPLUS                                  = 0X08,$/;"	e	enum:BNO055::OP_MODE
+OPERATION_MODE_M4G	bno055.h	/^      OPERATION_MODE_M4G                                      = 0X0A,$/;"	e	enum:BNO055::OP_MODE
+OPERATION_MODE_MAGGYRO	bno055.h	/^      OPERATION_MODE_MAGGYRO                                  = 0X06,$/;"	e	enum:BNO055::OP_MODE
+OPERATION_MODE_MAGONLY	bno055.h	/^      OPERATION_MODE_MAGONLY                                  = 0X02,$/;"	e	enum:BNO055::OP_MODE
+OPERATION_MODE_NDOF	bno055.h	/^      OPERATION_MODE_NDOF                                     = 0X0C$/;"	e	enum:BNO055::OP_MODE
+OPERATION_MODE_NDOF_FMC_OFF	bno055.h	/^      OPERATION_MODE_NDOF_FMC_OFF                             = 0X0B,$/;"	e	enum:BNO055::OP_MODE
+OP_MODE	bno055.h	/^    enum OP_MODE$/;"	g	class:BNO055
+POWER_MODE	bno055.h	/^    enum POWER_MODE$/;"	g	class:BNO055
+POWER_MODE_LOWPOWER	bno055.h	/^        POWER_MODE_LOWPOWER   = 0X01,$/;"	e	enum:BNO055::POWER_MODE
+POWER_MODE_NORMAL	bno055.h	/^        POWER_MODE_NORMAL     = 0X00,$/;"	e	enum:BNO055::POWER_MODE
+POWER_MODE_SUSPEND	bno055.h	/^        POWER_MODE_SUSPEND    = 0X02$/;"	e	enum:BNO055::POWER_MODE
+REGISTER	bno055.h	/^    enum REGISTER$/;"	g	class:BNO055
+State	astar.h	/^    struct State$/;"	s	class:AStar
+VECTOR_ACCELEROMETER	bno055.h	/^        VECTOR_ACCELEROMETER = BNO055_ACCEL_DATA_X_LSB_ADDR,$/;"	e	enum:BNO055::VECTOR_TYPE
+VECTOR_EULER	bno055.h	/^        VECTOR_EULER         = BNO055_EULER_H_LSB_ADDR,$/;"	e	enum:BNO055::VECTOR_TYPE
+VECTOR_GRAVITY	bno055.h	/^        VECTOR_GRAVITY       = BNO055_GRAVITY_DATA_X_LSB_ADDR$/;"	e	enum:BNO055::VECTOR_TYPE
+VECTOR_GYROSCOPE	bno055.h	/^        VECTOR_GYROSCOPE     = BNO055_GYRO_DATA_X_LSB_ADDR,$/;"	e	enum:BNO055::VECTOR_TYPE
+VECTOR_LINEARACCEL	bno055.h	/^        VECTOR_LINEARACCEL   = BNO055_LINEAR_ACCEL_DATA_X_LSB_ADDR,$/;"	e	enum:BNO055::VECTOR_TYPE
+VECTOR_MAGNETOMETER	bno055.h	/^        VECTOR_MAGNETOMETER  = BNO055_MAG_DATA_X_LSB_ADDR,$/;"	e	enum:BNO055::VECTOR_TYPE
+VECTOR_TYPE	bno055.h	/^    enum VECTOR_TYPE$/;"	g	class:BNO055
+Vector	bno055.h	/^    struct Vector$/;"	s	class:BNO055
+addr	astar.cpp	/^const int addr = 0x14;          $/;"	m	namespace:__anon1	file:
+address	bno055.h	/^    uint8_t address;$/;"	m	class:BNO055
+astar	main.cpp	/^AStar astar;$/;"	v
+begin	bno055.cpp	/^bool BNO055::begin(int file, OP_MODE mode)$/;"	f	class:BNO055
+getCalibration	bno055.cpp	/^void BNO055::getCalibration(uint8_t* sys, uint8_t* gyro, uint8_t* accel, uint8_t* mag)$/;"	f	class:BNO055
+getSystemStatus	bno055.cpp	/^void BNO055::getSystemStatus(uint8_t *status, uint8_t *selfTestResults, uint8_t *systemError)$/;"	f	class:BNO055
+getTemp	bno055.cpp	/^int8_t BNO055::getTemp()$/;"	f	class:BNO055
+getVector	bno055.cpp	/^void BNO055::getVector(Vector *vect)$/;"	f	class:BNO055
+i2cFile	bno055.h	/^    int i2cFile;$/;"	m	class:BNO055
+i2cFile	main.cpp	/^int i2cFile = 0;$/;"	v
+init	astar.cpp	/^bool AStar::init()$/;"	f	class:AStar
+isFullyCalibrated	bno055.cpp	/^bool BNO055::isFullyCalibrated(void)$/;"	f	class:BNO055
+left	astar.h	/^        int left;$/;"	m	struct:AStar::State
+leftSpeed	astar.cpp	/^    char leftSpeed;$/;"	m	struct:__anon1::MotorMessage	file:
+main	main.cpp	/^int main(int argc, char** argv)$/;"	f
+milliVolts	astar.h	/^        short milliVolts;$/;"	m	struct:AStar::State
+read8	bno055.cpp	/^uint8_t BNO055::read8(REGISTER reg )$/;"	f	class:BNO055
+readBuffer	astar.cpp	/^void AStar::readBuffer(int i2cFile, char reg, char *buff, int size)$/;"	f	class:AStar
+readLen	bno055.cpp	/^bool BNO055::readLen(REGISTER reg,  uint8_t *buffer, uint8_t len)$/;"	f	class:BNO055
+readState	astar.cpp	/^bool  AStar::readState(int i2cFile, AStar::State &state)$/;"	f	class:AStar
+reg	astar.cpp	/^    unsigned char reg;$/;"	m	struct:__anon1::MotorMessage	file:
+right	astar.h	/^        int right;$/;"	m	struct:AStar::State
+rightSpeed	astar.cpp	/^    char rightSpeed;$/;"	m	struct:__anon1::MotorMessage	file:
+setMode	bno055.cpp	/^void BNO055::setMode(OP_MODE mode)$/;"	f	class:BNO055
+setMotor	astar.cpp	/^bool AStar::setMotor(int i2cFile, char left, char right)$/;"	f	class:AStar
+toRads	main.cpp	/^float toRads(int16_t heading)$/;"	f
+twistMessage	main.cpp	/^void twistMessage(const geometry_msgs::Twist& twist)$/;"	f
+write8	bno055.cpp	/^bool BNO055::write8(REGISTER reg, uint8_t value)$/;"	f	class:BNO055
+x	bno055.h	/^        int16_t x;$/;"	m	struct:BNO055::Vector
+y	bno055.h	/^        int16_t y;$/;"	m	struct:BNO055::Vector
+z	bno055.h	/^        int16_t z;$/;"	m	struct:BNO055::Vector
+~AStar	astar.cpp	/^AStar::~AStar()$/;"	f	class:AStar
